@@ -6,7 +6,7 @@ public class ConfictTest : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-        Debug.LogError("这是master改动");
+        Debug.LogError("这是master改动啊");
 	}
 	
 	// Update is called once per frame
